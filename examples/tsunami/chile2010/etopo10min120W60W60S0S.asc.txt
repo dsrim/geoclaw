@@ -1,0 +1,21 @@
+===========================================================================
+Metadata for the file:  etopo10min60W120W60S0S.asc 
+
+Obtained from:        http://www.ngdc.noaa.gov/mgg/gdas/gd_designagrid.html
+Date:                 8 July 2010
+
+Header:
+
+361 ncols
+361 nrows
+-120.0 xll
+-60.0 yll
+0.166666666667 cellsize
+999999 nodata_value
+
+Description:
+
+Bathymetry near west coast of Chile for test problem.
+
+File size: 1.0M
+===========================================================================
